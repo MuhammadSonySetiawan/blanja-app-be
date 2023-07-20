@@ -29,3 +29,11 @@ cd blanja-app-be
 npm i
 nodemon app
 ```
+
+# Related Project
+
+[`Frontend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-fe)
+
+[`Backend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-app-be)
+
+[`Demo Blanja`](https://blanja-fe-zeta.vercel.app/)
