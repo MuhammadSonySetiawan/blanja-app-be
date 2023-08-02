@@ -39,3 +39,5 @@ nodemon app
 [`Demo Frontend Blanja`](https://blanja-fe-zeta.vercel.app/)
 
 [`Demo Backend Blanja`](https://erin-shiny-newt.cyclic.app/)
+
+[`Demo Postmen Backend Blanja](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
