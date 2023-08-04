@@ -32,12 +32,12 @@ nodemon app
 
 # Related Project
 
-[`Frontend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-fe)
+- [`Frontend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-fe)
 
-[`Backend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-app-be)
+- [`Backend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-app-be)
 
-[`Demo Frontend Blanja`](https://blanja-fe-zeta.vercel.app/)
+- [`Demo Frontend Blanja`](https://blanja-fe-zeta.vercel.app/)
 
-[`Demo Backend Blanja`](https://erin-shiny-newt.cyclic.app/)
+- [`Demo Backend Blanja`](https://erin-shiny-newt.cyclic.app/)
 
-[`Demo Postmen Backend Blanja`](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
+- [`Demo Postmen Backend Blanja`](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
