@@ -18,7 +18,7 @@ Blanja App Back-End uses a number of open source projects to work properly:
 - [Express](https://expressjs.com/) - fast node.js network app framework [@tjholowaychuk]
 - [PostgreSQL](https://www.postgresql.org/) - the powerfull database
 
-And of course Blanja App Back-End itself is open source with a [public repository](https://github.com/alkarim99) on GitHub and also You can try this [deploy](https://).
+And of course Blanja App Back-End itself is open source with a [public repository](https://github.com/MuhammadSonySetiawan) on GitHub and also You can try this [deploy](https://).
 
 ## Installation
 
