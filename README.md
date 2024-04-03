@@ -36,8 +36,8 @@ nodemon app
 
 - [`Backend Blanja`](https://github.com/MuhammadSonySetiawan/blanja-app-be)
 
-- [`Demo Frontend Blanja`](https://blanja-fe-zeta.vercel.app/)
+- [`Demo Frontend Blanja`](https://blanja-web-nine.vercel.app/)
 
-- [`Demo Backend Blanja`](https://erin-shiny-newt.cyclic.app/)
+- [`Demo Backend Blanja`](https://blanja-be-vert.vercel.app/)
 
 - [`Demo Postmen Backend Blanja`](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
